@@ -1,9 +1,4 @@
-# Phone-Book
-Here's an official README for the Phone Book System project. This README will help users understand the purpose, setup, usage, and structure of the project.
-
----
-
-# Phone Book System
+# Phone Book
 
 The Phone Book System is a comprehensive contact management application that allows users to add, search, display, edit, and delete contacts. This system also provides functionalities to clear all contacts and sort them for better organization.
 
@@ -27,8 +22,8 @@ The Phone Book System is a comprehensive contact management application that all
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/phone-book-system.git
-   cd phone-book-system
+   git clone https://github.com/your-username/phone-book.git
+   cd phone-book
    ```
 
 2. Ensure `contacts.json` and `name_id.json` are present in the project directory. If not, create them:
@@ -38,14 +33,13 @@ The Phone Book System is a comprehensive contact management application that all
    echo "{}" > name_id.json
    ```
 
-3. Install any necessary dependencies (if applicable).
 
 ## Usage
 
-Run the `main.py` file to start the Phone Book System.
+Run the `main.py` file to start the Phone Book.
 
 ```sh
-python main.py
+python3 main.py
 ```
 
 You will be presented with a menu with the following options:
@@ -110,4 +104,3 @@ For any questions or issues, please open an issue in the repository or contact t
 
 ---
 
-This README provides a comprehensive guide to understanding, setting up, and using the Phone Book System. Feel free to customize it further based on specific requirements or updates to the project.
