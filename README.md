@@ -91,7 +91,7 @@ Choose this option to delete all contacts from the system.
 - `sort_contact.py`: Sorts contacts by full name.
 - `store.py`: Contains logic for generating unique IDs and adding contacts.
 - `search.py`: Handles searching for contacts.
-- `delete_contact.py`: Handles deleting contacts.
+- `DeleteContact.py`: Handles deleting contacts.
 - `display_all.py`: Displays all contacts.
 - `edit.py`: Handles editing existing contacts.
 - `main.py`: The main entry point for the application.
