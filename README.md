@@ -22,7 +22,7 @@ The Phone Book System is a comprehensive contact management application that all
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/phone-book.git
+   git clone https://github.com/Augustine-Umeh/Phone-Book.git
    cd phone-book
    ```
 
